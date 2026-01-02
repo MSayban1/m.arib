@@ -1,0 +1,7 @@
+{
+  "name": "Muhammad Arib Portfolio",
+  "description": "Premium Digital Marketing Portfolio for Muhammad Arib with Admin Panel and Realtime Database",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
